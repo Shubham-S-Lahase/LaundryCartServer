@@ -95,4 +95,3 @@ router.put('/forgotpassword', async (req,res)=>{
 } )
 
 module.exports = router;
-Footer
